@@ -4,6 +4,8 @@ class tools {
   $packages = [
     "curl",
     "vim",
+    "libcurl3", 
+    "libcurl3-dev",
     "htop"
   ]
 
